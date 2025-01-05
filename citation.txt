@@ -1,0 +1,7 @@
+@inproceedings{REPO144,
+    author = "Yang, Zhixiong and Xia, Jingyuan and Li, Shengxi and Huang, Xinghua and Zhang, Shuanghui and Liu, Zhen and Fu, Yaowen and Liu, Yongxiang",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "26046--26056",
+    title = "{A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution}",
+    year = "2024"
+}
